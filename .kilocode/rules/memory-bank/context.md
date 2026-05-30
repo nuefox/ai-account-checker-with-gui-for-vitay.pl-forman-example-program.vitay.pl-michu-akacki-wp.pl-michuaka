@@ -14,6 +14,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] ESLint configuration
 - [x] Memory bank documentation
 - [x] Recipe system for common features
+- [x] Created vitay.pl account checker with GUI using Selenium and tkinter
 
 ## Current Structure
 
@@ -85,3 +86,4 @@ export async function GET() {
 | Date | Changes |
 |------|---------|
 | Initial | Template created with base setup |
+| 2026-05-30 | Created vitay.pl account checker with GUI using Selenium and tkinter |
